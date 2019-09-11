@@ -2,20 +2,20 @@
 
 Question/angle needed - what view and specific thread of a topic are you talking about
 
-# Intro
+## Intro
 - Set out objectives
 
-# Background
+## Background
 - If necessary
 
-# Outline/agenda
+## Outline/agenda
 
-# Sections
+## Sections
 - should be towards delivering objectives
-1) lead in
-2) content (rule of three)
-3) key takeaway (summary)
+  1) lead in
+  2) content (rule of three)
+  3) key takeaway (summary)
 
-# Conclusion
+## Conclusion
 
-# Q&A
+## Q&A
