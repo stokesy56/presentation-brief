@@ -1,11 +1,21 @@
 #README file for our presentation
 
-text
+Question/angle needed - what view and specific thread of a topic are you talking about
 
-## h2 header
+## Intro
+-Set out objectives
 
-more text
+### Background
+-If necessary
 
-### h3 header
+#### Outline/agenda
 
-even more text
+##### Sections
+-should be towards delivering objectives
+-lead in
+-content (rule of three)
+-key takeaway (summary)
+
+###### Conclusion
+
+####### Q&A
